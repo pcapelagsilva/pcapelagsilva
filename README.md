@@ -12,7 +12,7 @@ Atualmente, minha "vitrine" de projetos está organizada da seguinte forma:
 
 * **[_MACHINE-LEARNING/_](https://github.com/pcapelagsilva/MACHINE-LEARNING)**: Onde aplico modelos preditivos e algoritmos de classificação. Acredito que a IA é a chave para os próximos grandes saltos na biotecnologia.
 * **[_ROSALIND/_](https://github.com/pcapelagsilva/ROSALIND)**: Minha coleção de resoluções de problemas bioinformáticos, focada em algoritmos genéticos e lógica molecular.
-* **[_PANDAS/_](https://github.com/pcapelagsilva/PANDAS)**: Meus pipelines de manipulação de dados, onde transformo grandes volumes de datasets brutos em informações estruturadas.
+* **[_PANDAS/_](https://github.com/pcapelagsilva/PANDA)**: Meus pipelines de manipulação de dados, onde transformo grandes volumes de datasets brutos em informações estruturadas.
 * **[_BASH/_](https://github.com/pcapelagsilva/BASH)**: Automações em ambiente Linux para otimizar o processamento de arquivos genômicos (FASTA/FASTQ) e rotinas de Bioinfo.
 * **[_PROJETO_PAPER/_](https://github.com/pcapelagsilva/PROJETO_PAPER)**: Um fluxo de trabalho profissional usando LaTeX e Makefiles para redação científica, onde documento minhas pesquisas sobre **Terapia Gênica para Anemia Falciforme**.
 
