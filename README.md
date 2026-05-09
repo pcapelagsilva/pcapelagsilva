@@ -1,3 +1,42 @@
+# Hello, I'm Pedro! 👋
+I'm a **Biology student** nearing the end of my degree, passionate about the intersection of life sciences and code. Currently, my focus is on **Bioinformatics and Data Science**, using computing to extract meaning from complex biological data.
+
+My journey involves uniting biology with the power of Linux automation and Python.
+
+### 🧬 What I'm building:
+Currently, my project "showcase" is organized as follows:
+
+* **[_MACHINE-LEARNING/_](https://github.com/pcapelagsilva/MACHINE-LEARNING)**: Where I apply predictive models and classification algorithms. I believe AI is the key to the next major breakthroughs in biotechnology.
+* **[_ROSALIND/_](https://github.com/pcapelagsilva/ROSALIND)**: A collection of my solutions to bioinformatics challenges, focusing on genetic algorithms and molecular logic.
+* **[_PANDAS/_](https://github.com/pcapelagsilva/PANDA)**: My data manipulation pipelines, where I transform large volumes of raw datasets into structured information.
+* **[_BASH/_](https://github.com/pcapelagsilva/BASH)**: Linux-based automations to optimize the processing of genomic files (FASTA/FASTQ) and bioinformatics routines.
+* **[_PROJETO_PAPER/_](https://github.com/pcapelagsilva/PROJETO_PAPER)**: A professional workflow using LaTeX and Makefiles for scientific writing, documenting my research on Gene Therapy for Sickle Cell Anemia.
+
+---
+
+🛠️ My Toolbox:
+* **Languages:** Python (Pandas, NumPy, Biopython), Bash, LaTeX.
+
+* **Systems:** Linux (Ubuntu/Debian), Git/GitHub (including CI/CD and Hooks).
+
+* **Areas of Interest:** Molecular Genetics, CRISPR/Cas9, Biological Data Science, and Automation of Scientific Workflows.
+
+---
+
+### 📫 Let's talk about?
+
+I'm always open to exchanging ideas about biology, programming, or opportunities in the field of Bioinformatics.
+
+* **English Level:** B2 (Upper-Intermediate/Advanced)
+
+* **Location:** Florianópolis, Brazil 🇧🇷
+
+---
+
+*"Biology is the most advanced technology in existence; programming is simply the tool we use to decode it."*
+
+---
+
 # Olá, eu sou o Pedro! 👋
 
 Sou um estudante de **Ciências Biológicas** na reta final da graduação, apaixonado pela intersecção entre a vida e o código. Atualmente, foco meus esforços na **Bioinformática e Ciência de Dados**, utilizando a computação para extrair sentido de dados biológicos complexos.
@@ -31,7 +70,7 @@ Atualmente, minha "vitrine" de projetos está organizada da seguinte forma:
 Estou sempre aberto a trocar ideias sobre biologia, programação ou oportunidades na área de Bioinformática.
 
 - **Nível de Inglês:** B2 (Avançado)
-- **Localização:** Florianópolis, SC
+- **Localização:** Florianópolis, BR
 
 ---
 *"A biologia é a tecnologia mais avançada que existe; a programação é apenas a ferramenta para compreendê-la."*
