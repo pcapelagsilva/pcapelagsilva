@@ -60,7 +60,7 @@ Atualmente, minha "vitrine" de projetos está organizada da seguinte forma:
 * **[_PANDAS/_](https://github.com/pcapelagsilva/PANDA)**: Meus pipelines de manipulação de dados, onde transformo grandes volumes de datasets brutos em informações estruturadas.
 * **[_BASH/_](https://github.com/pcapelagsilva/BASH)**: Automações em ambiente Linux para otimizar o processamento de arquivos genômicos (FASTA/FASTQ) e rotinas de Bioinfo.
 * **[_PROJETO_PAPER/_](https://github.com/pcapelagsilva/PROJETO_PAPER)**: Um fluxo de trabalho profissional usando LaTeX e Makefiles para redação científica, onde documento minhas pesquisas sobre **Terapia Gênica para Anemia Falciforme**.
-### [ BIOINFORMATICS-PROJECTS](https://github.com/pcapelagsilva/BIOINFORMATICS-PROJECTS)
+* **[ BIOINFORMATICS-PROJECTS](https://github.com/pcapelagsilva/BIOINFORMATICS-PROJECTS)
 Um portfólio selecionado que demonstra a aplicação de Python e ferramentas computacionais na biologia molecular, genética e epidemiologia:
     * **🩸 Hematologia Molecular:** Triagem e análise de mutações pontuais para o estudo da **Anemia Falciforme** (gene `HBB`).
     * **🎀 Genômica do Câncer:** Triagem computacional e análise de dados de oncogenes voltada para a pesquisa do **Câncer de Mama**.
